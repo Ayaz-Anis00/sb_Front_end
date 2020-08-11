@@ -3,4 +3,4 @@ The Smart-Brain application uses the Clarifai face detection API to take in a ph
 
 This repository contains files for front-end.
 
-To view the back-end repository, visit https://git.io/JJPkY
+To view the back-end repository, visit https://git.io/JJyfZ
